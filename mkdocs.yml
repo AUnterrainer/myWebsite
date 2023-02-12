@@ -5,7 +5,7 @@ site_description: >-
   DESCRIPTION
 
 nav:
-  - Home: index.md
+  - Home: underConstruction.md
   - KDB/Q-Architecture:
     - Plain Vanilla KDB-tick Architecture: architecture/plain.md
     - Ticker Plant in detail: underConstruction.md
