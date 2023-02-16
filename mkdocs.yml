@@ -1,11 +1,11 @@
-site_name: Welcome to my professional  website as a KDB/Q developer
+site_name: Welcome DefconQ
 
 site_author: Alexander Unterrainer
 site_description: >-
   DESCRIPTION
 
 nav:
-  - Home: underConstruction.md
+  - Home: home.md
   - KDB/Q-Architecture:
     - Plain Vanilla KDB-tick Architecture: architecture/plain.md
     - Ticker Plant in detail: underConstruction.md
@@ -13,7 +13,7 @@ nav:
   - Other: underConstruction.md
   - About: about.md
   - CV: cv.md
-  - Services: underConstruction.md
+  - Services: services.md
 
 theme:
   name: material
